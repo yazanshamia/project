@@ -1,0 +1,8 @@
+c:\users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\bin\Debug\calculator1.exe
+c:\users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\bin\Debug\calculator1.pdb
+c:\users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.Form1.resources
+c:\users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.Properties.Resources.resources
+c:\users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.csproj.GenerateResource.Cache
+c:\users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.exe
+c:\users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.pdb
+C:\Users\hasan\onedrive\documenten\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.csprojResolveAssemblyReference.cache
